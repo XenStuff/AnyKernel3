@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=NekoKernel-Lite by @Ratoriku
+kernel.string=NekoKernel-Lite by @Ratoriku built by @xenxynon
 do.devicecheck=1
 do.modules=0
 do.systemless=1
@@ -61,4 +61,3 @@ write_boot;
 
 #flash_boot;
 ## end vendor_boot install
-
